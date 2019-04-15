@@ -1,0 +1,6 @@
+[
+    {
+        "javascript": "<h1>javascript header</h1>\n        The result is that you can load the JSON as a script file. If you previously set up a function called func, then that function will be called with one argument, which is the JSON data, when the script file is done loading. This is usually used to allow for cross-site AJAX with JSON data. If you know that example.com is serving JSON files that look like the JSONP example given above, then you can use code like this to retrieve it, even if you are not on the example.com domain The result is that you can load the JSON as a script file. If you previously set up a function called func, then that function will be called with one argument, which is the JSON data, when the script file is done loading. This is usually used to allow for cross-site AJAX with JSON data. If you know that example.com is serving JSON files that look like the JSONP example given above, then you can use code like this to retrieve it, even if you are not on the example.com domain",
+        "sample": "<h1>javascript header</h1><h1>javascript header</h1>\n        <h1>javascript header</h1><h1>javascript header</h1><h1>javascript header</h1><h1>javascript header</h1>"
+    }
+]
